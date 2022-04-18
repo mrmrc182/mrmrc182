@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mrmrc182
 - 👀 I’m interested in sports, loud music, and beautiful code
-- 🌱 I’m currently learning coding as a whole
-- 💞️ I’m looking to collaborate on not much at the moment, but I'll continue to update this.
+- 🌱 I’m currently learning Node.JS.
 - 📫 How to reach me send me a message
 
 <!---
