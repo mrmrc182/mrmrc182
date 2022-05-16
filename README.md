@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrmrc182
 - 👀 I’m interested in sports, loud music, and beautiful code
-- 🌱 I’m currently learning Express.JS and MySQL at UCSD's Full Stack Web Development Bootcamp.
+- 🌱 I’m currently learning MongoDB at UCSD's Full Stack Web Development Bootcamp.
 - 📫 How to reach me send me a message
 
 <!---
