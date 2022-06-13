@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrmrc182
-- 👀 I’m interested in sports, loud music, and beautiful code
+- 👀 I’m interested in gaming, front end, and creating new ways to enhance user experiences.
 - 🌱 I’m currently learning about React.Js and MERN Stack at UCSD's Full Stack Web Development Bootcamp.
 - 📫 How to reach me send me a message
 
