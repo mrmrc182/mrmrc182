@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrmrc182
-- 👀 I’m interested in gaming, front end, and creating new ways to enhance user experiences.
-- 🌱 I’m currently learning about React.Js and MERN Stack at UCSD's Full Stack Web Development Bootcamp.
+- 👀 I’m interested in gaming and creating new ways to enhance user experiences.
+- 🌱 I’m currently set to begin full time training with Revature in early December.
 - 📫 How to reach me send me a message
 
 <!---
