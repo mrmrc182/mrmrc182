@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrmrc182
 - 👀 I’m interested in gaming and creating new ways to enhance user experiences.
-- 🌱 I’m currently set to begin full time training with Revature in early December.
+- 🌱 I’m currently set to begin full time training with Revature in March 2023.
 - 📫 How to reach me send me a message
 
 <!---
